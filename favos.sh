@@ -8,4 +8,4 @@
 # geary
 # .....
 
-sudo pacman -S cherrytree owncloud-client opera filezilla chromium geany geary processing nodejs npm atom scribus inkscape mplayer whois curl neofetch pluma vim tor
+sudo pacman -S cherrytree owncloud-client opera filezilla chromium geany geary processing go nodejs npm atom scribus inkscape mplayer whois curl neofetch pluma vim tor
