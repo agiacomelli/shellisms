@@ -3,10 +3,10 @@
 # the list of my favourite linux apps
 # easy install on a new arch sys with just one cmd
 
-CODING="processing ruby nodejs go geany atom npm "
-OFFICE="libreoffice cherrytree keepnote vym "
-NET="geary opera firefox telegram-desktop filezilla owncloud-client curl whois net-tools tcpdump tor macchanger "
-MULTIMEDIA="scribus mplayer clementine inkscape xsane "
+CODING="processing ruby ruby-irb rakudo-star php nodejs go php geany atom npm "
+OFFICE="libreoffice cherrytree keepnote "
+NET="geary opera firefox telegram-desktop filezilla simple-http-server brave thunderbird curl whois net-tools tcpdump tor "
+MULTIMEDIA="scribus mplayer clementine inkscape xsane nomacs "
 MISC="zsh neofetch pluma binutils bind-tools"
 
-sudo pacman -S $CODING $OFFICE $NET $MULTIMEDIA $MISC
+sudo pacman -Syu $CODING $OFFICE $NET $MULTIMEDIA $MISC
